@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddarthareddy
-- 👀 I’m interested in building distributed, scalable, reliable systems
-- 🌱 I’m currently learning CICD tools, Jenkins Pipeline, Advanced Python
+- 👀 Interested in building distributed, scalable, reliable systems
+- 🌱 Currently digging into CICD tools, Jenkins Pipeline, Advanced Python - Asynchronous Programming, Making Python code readable with Type Hinting,
 - 💞️ I’m looking to collaborate on open source projects which are of my liking and matches my skill set
 - 📫 How to reach me -- reddy.siddartha53@gmail.com
 
