@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @siddartham
-- 👀 Interested in designing Enterprise solutions to build custom automated solutions & common capabilities and exploring distributed, scalable, secure, reliable systems. 
-- 🌱 Currently digging into Hardware Architecture, OS development, Software Architecture, Anti-Patterns, API development, Data Engineering, CICD tooling, Advanced Python.
-- 💞️ I’m looking to collaborate on open source projects which are of my liking and matches my skill set
+- 👀 Interested in designing Enterprise solutions to automate processes and build common capabilities. 
+- 🌱 Currently digging into Data Engineering, Software Architecture, API development, CICD tooling, Advanced Python, Anti-Patterns, Operating Systems.
 - 📫 How to reach me -- reddy.siddartha53@gmail.com
 
 <!---
